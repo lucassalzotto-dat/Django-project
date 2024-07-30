@@ -1,6 +1,6 @@
 # Django-project
 
-Este proyecto se centra en la creacion de una aplicación web de una tienda online desarrollada con Django, que permite a los usuarios navegar por productos, leer y dejar reseñas, y añadir productos a su carrito de compras.
+Este proyecto se centra en la creación de una aplicación web de una tienda online desarrollada con Django, que permite a los usuarios navegar por productos, leer y dejar reseñas, y añadir productos a su carrito de compras.
 
 ## Requirements
 
